@@ -20,5 +20,7 @@ public class Main {
         System.out.println("Tutaj też jest super kod w wersji 1.0.1");
 
         System.out.println("Tutaj jest koniec wersji 1.0.1 poszło na produkcje ");
+
+        System.out.println("dodalam tjemnicy kod, ktory poprosil mnie moj kumpel z team-u ");
     }
 }
