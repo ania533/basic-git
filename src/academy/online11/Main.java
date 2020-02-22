@@ -17,5 +17,6 @@ public class Main {
 
         System.out.println("Tu zaczyna się wersja 1.0.1");
 
+        System.out.println("Tutaj też jest super kod w wersji 1.0.1");
     }
 }
