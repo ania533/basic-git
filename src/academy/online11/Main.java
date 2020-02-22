@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Kod główny bez brancha");
 
         System.out.println("siema siema to jest branch person" );
+
+        System.out.println("siema jestem branch");
     }
 }
